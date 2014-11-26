@@ -3,7 +3,7 @@
 
 box      = "ubuntu-server-14.04"
 box_url  = "https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-i386-vagrant-disk1.box"
-hostname = "courses"
+hostname = "PHPJunior"
 www_dst  = "/var/www"
 www_src  = "./"
 ip       = "192.168.56.99"
